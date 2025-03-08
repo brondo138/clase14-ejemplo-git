@@ -1,2 +1,5 @@
 #Carpeta de las dependencias de node 
 node_module/
+
+# Toodos los json
+jspm_packages/
