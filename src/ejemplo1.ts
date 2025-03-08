@@ -4,5 +4,7 @@ export class Person{
         console.log("Hola mundo");
     }
 
-    
+    mostrarInfo(){
+        console.log(`Usuario: ${this.name}\nEdad: ${this.age}`);
+    }
 }
